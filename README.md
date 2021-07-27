@@ -1,9 +1,9 @@
 # Задание на SQL
 Выбран MSSQL.
- ## [ПЕРВОЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-task-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201) 
- ## [ВТОРОЕ ЗАДАНИЕ (no test)](https://github.com/dhanadadas/sql-task-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
- ## [ТРЕТЬЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-task-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203)
- ## [ЧЕТВЕРТОЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-task-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204)
+ ## [ПЕРВОЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201) 
+ ## [ВТОРОЕ ЗАДАНИЕ (no test)](https://github.com/dhanadadas/sql-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
+ ## [ТРЕТЬЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203)
+ ## [ЧЕТВЕРТОЕ ЗАДАНИЕ](https://github.com/dhanadadas/sql-midlle/tree/main/%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204)
  
   ### Тестовые данные
   ```sql
